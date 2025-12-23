@@ -1,4 +1,3 @@
-Ionization calculations for the TLUSTY model
 logtaur, partially_ionized_mu, x_H, x_He_II, x_He_III
 4.7401e-08,6.3307e-01,9.9998e-01,5.5494e-01,2.4659e-15
 1.0197e-07,6.3385e-01,9.9997e-01,5.2377e-01,2.9520e-15
@@ -50,4 +49,5 @@ logtaur, partially_ionized_mu, x_H, x_He_II, x_He_III
 2.3076e+02,6.1045e-01,9.9982e-01,5.0455e-01,4.9522e-01
 3.6684e+02,6.0504e-01,9.9983e-01,2.7034e-01,7.2957e-01
 3.6807e+02,6.0501e-01,9.9983e-01,2.6909e-01,7.3082e-01
+
 
