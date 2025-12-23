@@ -1,2 +1,2 @@
 # Comparison-of-Atmospheric-Models
-Code used for the plotting and mean molecular weight and ionization fraction calculations for "Entregable 2" in the Atmósferas Estelares class in Máster de Astrofísica in Universidad de La Laguna.
+Code used for the plotting and mean molecular weight and ionization fraction calculations for "Entregable 2" in the Atmósferas Estelares class in Máster de Astrofísica in Universidad de La Laguna. Here we append the ionization calculations for the three models which include the Rosseland optical depth, the mean molecular weight for partial ionization and the ioization fractions for hydrogen, and singly and doubly ionized helium. Also the code for which the plotting and the calculations were done.
